@@ -4,7 +4,7 @@ Automatic hacking tools installer for Android [ONLY FOR TERMUX]
 
 
 
-TERMUX: https://www.instagram.com/i_am_albin_praveen/
+INSTAGRAM: https://www.instagram.com/i_am_albin_praveen/
 
 ```
 git clone https://github.com/ALBINPRAVEEN/toolss.git
