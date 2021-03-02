@@ -4,15 +4,13 @@ Automatic hacking tools installer for Android [ONLY FOR TERMUX]
 
 
 
-Facebook: https://www.facebook.com/kalinuxtutorials/
+TERMUX: https://www.instagram.com/i_am_albin_praveen/
 
-# Installation
-Watch Video: https://www.youtube.com/watch?v=8KvY2NM47ZM
 ```
 git clone https://github.com/ALBINPRAVEEN/toolss.git
 cd toolss
-chmod +x Tools.py
-python Tools.py
+chmod +x Toolss.py
+python Toolss.py
 ```
 # Screenshot
-<img src="https://i.imgur.com/OhhVPzU.png"/>
+<img src="WhatsApp Image 2021-03-02 at 1.05.07 PM.jpeg"/>
