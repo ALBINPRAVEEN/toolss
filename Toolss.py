@@ -11,9 +11,8 @@ def menu():
 ....##....##.....##.##.....##.##.......##....##.##....##
 ....##.....#######...#######..########..######...######.
 ========================================
-Created By AnonHacker
-Channel: youtube.com/kalinuxx
-Facebook: facebook.com/kalinuxtutorials
+Created By ALBY
+
 Ver: 2.0
 ----
 ONLY FOR TERMUX!
